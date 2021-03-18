@@ -6,7 +6,8 @@ public class Test1 {
 
     }
 
-   public void rollno() {
+    public void rollno() {
+
         System.out.println(20);
     }
 
